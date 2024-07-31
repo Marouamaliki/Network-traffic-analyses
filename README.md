@@ -3,10 +3,6 @@ This code captures network packets on a specified interface for a determined dur
 This can be useful for monitoring and diagnosing network traffic, as well as for detecting potential security threats. 
 This project uses Python and the Pyshark library to capture and analyze network packets.
 
-Here's a step-by-step guide along with the code:
-
-Sure! Here's a brief explanation of each step:
-
 # Step 1: Set Up Your Environment
   - Install Python on your system.
   - Install necessary libraries such as Pyshark using `pip install pyshark`.
